@@ -1,0 +1,9 @@
+.clear_btn {
+    padding: 7px 12px;
+    cursor: pointer;
+    border-radius: 20px;
+    color: skyblue;
+    background-color: #fff;
+    border:1px solid grey;
+  }
+  
